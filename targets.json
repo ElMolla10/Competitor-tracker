@@ -1,0 +1,13 @@
+[
+  {"name": "Gumus", "category": "fashion", "url": "https://gumus.eg/products.json?limit=250"},
+  {"name": "Boheme", "category": "fashion", "url": "https://www.bohemeshop.net/products.json?limit=250"},
+  {"name": "Mlameh", "category": "fashion", "url": "https://mlameh.com/products.json?limit=250"},
+  {"name": "Mamzi", "category": "fashion", "url": "https://mamzistore.com/products.json?limit=250"},
+  {"name": "Palma", "category": "fashion", "url": "https://getpalma.com/products.json?limit=250"},
+  {"name": "Dress Code", "category": "fashion", "url": "https://dresscodeme.com/products.json?limit=250"},
+  {"name": "Ankh", "category": "craft", "url": "https://ankhegy.com/products.json?limit=250"},
+  {"name": "Nomad Gallery", "category": "craft", "url": "https://www.nomadgallery.net/products.json?limit=250"},
+  {"name": "Jozee Boutique", "category": "craft", "url": "https://www.jozeeboutique.com/products.json?limit=250"},
+  {"name": "CraftsOfEgypt", "category": "craft", "url": "https://craftsofegypt.com/products.json?limit=250"},
+  {"name": "Mitcha", "category": "fashion", "url": "https://www.mitcha.com/products.json?limit=250"}
+]

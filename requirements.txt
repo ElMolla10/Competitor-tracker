@@ -1,0 +1,7 @@
+playwright==1.44.0
+playwright-stealth==2.0.3
+requests==2.33.1
+supabase==2.4.6
+APScheduler==3.10.4
+python-dotenv==1.0.1
+pytz==2024.1
